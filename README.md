@@ -23,7 +23,7 @@ Generated datasets and model artifacts are ignored. The raw data is attributed i
 
 ## Project paper
 
-I wrote an IEEE-format paper covering the dataset, preprocessing decisions, model comparison, results, and limitations. I will add the verified PDF to the `report` folder separately.
+I wrote a paper alongside my groupmate covering the dataset, preprocessing decisions, model comparison, results, and limitations.
 
 ## Repository layout
 

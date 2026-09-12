@@ -1,5 +1,5 @@
-# Project report
+# Project paper
 
 Evaluation figures are included in `figures/`.
 
-The final report PDF is intentionally pending. The previous local export could not be rendered reliably, so the project owner will add a verified copy rather than publishing a corrupted file.
+An IEEE-format paper accompanies this project and covers the dataset, methods, experiments, results, and limitations. I will add the final verified PDF here separately.

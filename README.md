@@ -19,7 +19,11 @@ pip install -r requirements.txt
 python -m src.main
 ```
 
-Generated datasets and model artifacts are ignored. The raw data is attributed in `DATASET.md`. Evaluation figures are under `report/figures`; the final report PDF will be added separately by the project owner after its export is verified.
+Generated datasets and model artifacts are ignored. The raw data is attributed in `DATASET.md`, and evaluation figures are under `report/figures`.
+
+## Project paper
+
+I wrote an IEEE-format paper covering the dataset, preprocessing decisions, model comparison, results, and limitations. I will add the verified PDF to the `report` folder separately.
 
 ## Repository layout
 
@@ -36,4 +40,4 @@ This is an educational classifier, not a medical device. It is not validated for
 
 ## Collaboration
 
-This was a collaborative academic project and is published with the group's permission. The portfolio repository excludes classroom instructions, personal identifiers, environment files, caches, and generated model binaries. Its new history records portfolio preparation rather than the original development timeline.
+This classifier was built collaboratively as a student class project. We worked on the data pipeline, model training, evaluation, visualizations, and written report as a group.

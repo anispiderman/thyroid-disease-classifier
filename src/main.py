@@ -1,10 +1,10 @@
 from importlib import util
 from pathlib import Path
 
-from feature_engineering.build_features import main as build_features
-from models.predict_model import main as predict_model
-from models.train_model import main as train_model
-from visualization.visualize import load_data, run_visualizations 
+from .feature_engineering.build_features import main as build_features
+from .models.predict_model import main as predict_model
+from .models.train_model import main as train_model
+from .visualization.visualize import load_data, run_visualizations
 
 PREPROCESSING_SCRIPT_PATH = (
     Path(__file__).resolve().parent / "preprocessing_data" / "pre-processing.py"
